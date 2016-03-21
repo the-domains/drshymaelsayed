@@ -1,6 +1,6 @@
 name: drshymaelsayed
 favicon: null
-layout_spectrum: 0.6679742294363678
+layout_spectrum: 0.47063
 typography_spectrum: 0.5317985168658197
 title: think.paint.feel
 cta:
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.25032158964313567
-  lightness: 0.42373726540245116
-  saturation: 0.03926658444106579
-  rhythmicContrast: 0.9899732635822147
+  brandStrength: 0.3125
+  lightness: 0.375
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
